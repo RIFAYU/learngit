@@ -1,3 +1,3 @@
-num1 = int(input('E : '))
-num2 = int(input('E : '))
+num1 = int(input('Enter Number 1 : '))
+num2 = int(input('Enter Number 2 : '))
 print(num1*num2)
