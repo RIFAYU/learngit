@@ -1,0 +1,1 @@
+print("Welcome To Terminal Calculator\n")
